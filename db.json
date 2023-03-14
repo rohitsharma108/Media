@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Elsa Nader",
+      "id": 5
+    },
+    {
+      "name": "Lester Grant II",
+      "id": 6
+    },
+    {
+      "name": "Irving Maggio",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Oriental Rubber Gloves",
+      "id": 46
+    },
+    {
+      "userId": 5,
+      "title": "Licensed Cotton Fish",
+      "id": 47
+    },
+    {
+      "userId": 6,
+      "title": "Incredible Granite Tuna",
+      "id": 48
+    },
+    {
+      "userId": 7,
+      "title": "Awesome Granite Pizza",
+      "id": 49
+    },
+    {
+      "userId": 7,
+      "title": "Ergonomic Wooden Chair",
+      "id": 50
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 48,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53132",
+      "id": 1
+    }
+  ]
+}
